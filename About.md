@@ -12,3 +12,12 @@ Through this blog, I aim to share my experiences, insights, and discoveries with
 
 <a href="https://twitter.com/soumith" target="_blank"><i class="fab fa-twitter"></i></a>
 <a href="https://instagram.com/soumith" target="_blank"><i class="fab fa-instagram"></i></a>
+
+
+<div class="social-icons">
+  <a href="https://twitter.com/soumithhh"><i class="fab fa-twitter"></i></a>
+  <a href="https://facebook.com/soumithhh"><i class="fab fa-facebook"></i></a>
+  <a href="https://instagram.com/soumithhh"><i class="fab fa-instagram"></i></a>
+  <a href="https://linkedin.com/in/soumithhh"><i class="fab fa-linkedin"></i></a>
+</div>
+
